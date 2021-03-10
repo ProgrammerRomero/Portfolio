@@ -19,11 +19,11 @@ particlesJS('particles-js',
         "value": 80,
         "density": {
           "enable": true,
-          "value_area": 800
+          "value_area": 1000
         }
       },
       "color": {
-        "value": "#ddd"
+        "value": "#aaa"
       },
       "shape": {
         "type": "circle",
@@ -69,7 +69,7 @@ particlesJS('particles-js',
       },
       "move": {
         "enable": true,
-        "speed": 6,
+        "speed": 3,
         "direction": "none",
         "random": false,
         "straight": false,
